@@ -1,0 +1,16 @@
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\SyntaxExercise.exe
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\SyntaxExercise.deps.json
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\SyntaxExercise.runtimeconfig.json
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\SyntaxExercise.runtimeconfig.dev.json
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\SyntaxExercise.dll
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\ref\SyntaxExercise.dll
+C:\Users\antho\repos\SyntaxExercise\bin\Debug\net5.0\SyntaxExercise.pdb
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.csproj.AssemblyReference.cache
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.AssemblyInfoInputs.cache
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.AssemblyInfo.cs
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.dll
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\ref\SyntaxExercise.dll
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.pdb
+C:\Users\antho\repos\SyntaxExercise\obj\Debug\net5.0\SyntaxExercise.genruntimeconfig.cache
